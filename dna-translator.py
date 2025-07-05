@@ -170,7 +170,7 @@ import tkinter as tk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib.pyplot as plt
 
-def create_visualizations(dna_sequence, amino_occurences):
+def create_visualizations(dna_sequence, amino_occurrences):
     # Create the main Tkinter window
     root = tk.Tk()
     root.title("DNA and Amino Acid Visualizations")
