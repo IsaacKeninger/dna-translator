@@ -2,7 +2,7 @@
 
 This is a Python project that simulates transcription and translation of DNA into amino acids, and visualizes the results.
 
-( This was created as a final project for my first coding class in college CS65! My favorite class of the semester It was amazing to touch up on my python skills
+( This was created as a final project for my first coding class in college CS65! My favorite class of the semester, It was amazing to touch up on my python skills
 and to learn more introductory topics in comp sci.)
 
 ## Features
